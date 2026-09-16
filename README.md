@@ -28,7 +28,7 @@ The dashboard was built to answer the following business questions:
 
 ## Dashboard Preview
 
-![Financial Analysis Dashboard](dashboard_Overview-1.png)
+![Financial Analysis Dashboard](dashboard_Overview.png)
 
 ## Key Insights
 
